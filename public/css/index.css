@@ -1,4 +1,7 @@
 .task1 .item {
+  position: relative;
+  top: 150px; 
+  left: 200px; 
 }
 
 .task2 .item {
